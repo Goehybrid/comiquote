@@ -1,5 +1,6 @@
 # comiquote
 Get random quotes from your favorite comic book characters.
+It is a little bit laggy
 
 Try it [here]
 
