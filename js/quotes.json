@@ -1,0 +1,93 @@
+[
+	{
+		"character" : "Joker",
+		"image" : "http://www.bitacine.com/wp-content/uploads/2015/04/jared-leto-primera-imagen-joker.jpg",
+		"quote" : "Madness is the emergency exit. You can just step outside, and close the door on all those dreadful things that happened. You can lock them away... forever."
+	},
+	{
+		"character" : "Doctor Manhattan",
+		"image" : "http://static.comicvine.com/uploads/original/3/31666/719828-manhattan_1.jpg",
+		"quote" : "In my opinion, the existence of life is a highly overrated phenomenon."
+	},
+	{
+		"character" : "Hellboy",
+		"image" : "http://abduzeedo.com/files/originals/h/hellboy_collab.jpg",
+		"quote" : "Speak quickly! I am aching to destroy you!"
+	},
+	{
+		"character": "Iron Man",
+		"image": "http://static.comicvine.com/uploads/original/12/127235/3061712-6631497148-iron-.jpg",
+		"quote": "Patriotism doesn’t automatically equal conservatism."
+	},
+	{
+		"character": "Green Lantern",
+		"image": "https://s-media-cache-ak0.pinimg.com/736x/e8/13/19/e813195ea6c6be8b62842acccb8812e4.jpg",
+		"quote": "In brightest day, in blackest night, no evil shall escape my sight. Let those who worship evil’s might, beware my power - Green Lantern’s light!"
+	},
+	{
+		"character": "QuickSilver",
+		"image": "http://i1.cdnds.net/13/21/300x225/comics-quicksilver.jpg",
+		"quote": "We plan for days and days and when the time comes, we proceed to improvise."
+	},
+	{
+		"character": "Wonder Woman",
+		"image": "http://static.comicvine.com/uploads/original/12/128825/2517475-2141098-wonder_woman_02.jpg",
+		"quote": "I cannot preach hate and warfare when I am a disciple of peace and love!"
+	},
+	{
+		"character": "Rorschach",
+		"image": "http://borgdotcom.files.wordpress.com/2012/01/watchmen-rorschach.jpg",
+		"quote": "Never compromise. Not even in the face of Armageddon."
+	},
+	{
+		"character": "Superman",
+		"image": "http://static.comicvine.com/uploads/original/11120/111206272/4363635-7178872974-36057.png",
+		"quote": "You asked for my help. That’s all that matters."
+	},
+	{
+		"character": "The Comedian",
+		"image": "https://latimesherocomplex.files.wordpress.com/2030/04/comedian5-cp2.jpg?w=400&h=224&crop=1",
+		"quote": "Once you realize what a joke everything is, being the Comedian is the only thing that makes sense."
+	},
+	{
+		"character": "Thor",
+		"image": "http://static.comicvine.com/uploads/original/8/80376/1798954-thor_comic_book_image_01.jpg",
+		"quote": "No! Not all the blades in Asgard, Not all the power in the universe shall hold me now!"
+	},
+	{
+		"character": "Captain America",
+		"image": "http://static.comicvine.com/uploads/original/11121/111217887/4600115-4965840965-45196.jpg",
+		"quote": "What do you think the \"A\" on my head stands for? France?"
+	},
+	{
+		"character": "The Thing",
+		"image": "http://2.bp.blogspot.com/-l6QYPf4Tw1w/TujGJbAGSKI/AAAAAAAAtTg/NYvEqZxisR0/s1600/Thing-Photos.jpg",
+		"quote": "It’s clobberin’ time!"
+	},
+	{
+		"character": "Batman",
+		"image": "http://static.comicvine.com/uploads/original/11124/111240963/4723877-batman_480x320.jpg",
+		"quote": "It's not who I am underneath, but what I do that defines me."
+	},
+	{
+		"character": "Martian Manhunter",
+		"image": "http://3.bp.blogspot.com/-CFb1diJqzbk/VlOGGBPk5GI/AAAAAAAAEwc/RcDmRcz0aaE/s1600/Martian%2BManhunter.jpg",
+		"quote": "The future is worth it. All the pain. All the tears. The future is worth the fight."
+	},
+	{
+		"character": "Doctor Octopus",
+		"image": "http://2.bp.blogspot.com/-n8HqK4ogb3I/VVmjC2TzCwI/AAAAAAAAYg4/L115pVqSVls/s400/DR-OCTOPUS.jpg",
+		"quote": "The real crime would be not to finish what we started."
+	},
+	{
+		"character": "Professor X",
+		"image": "https://upload.wikimedia.org/wikipedia/en/c/c9/Xav-lopr.png",
+		"quote": "The greatest power on Earth is the magnificent power we all of us possess... the power of the human brain!"
+	},
+	{
+		"character": "Daredevil",
+		"image": "http://static.comicvine.com/uploads/original/11116/111163466/4917349-7899404666-18fum.jpg",
+		"quote": "I hope justice is found here today... before justice finds you."
+	}
+
+]

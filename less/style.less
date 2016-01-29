@@ -1,0 +1,84 @@
+html{
+	background: url("../img/background.jpg") no-repeat center center fixed;
+	background-size: cover;
+}
+
+header{
+	font-family: "Bangers", cursive;
+	text-align: center;
+
+	h1{
+		display: inline-block;
+		width: 400px;
+		margin-top: 20px;
+		//margin: 20px 0;
+		padding: 17px 0;
+		color: #FDFC74;
+		text-shadow: 2px 2px  #FF5349;
+		background-color: rgba(26, 72, 118, 0.9);
+		font-size: 35px;
+		letter-spacing: 3px;
+	}
+}
+
+main{
+	text-align: center;
+	width: 400px;
+	margin: 0 auto;
+
+	section#image-holder{
+		display: inline-block;
+		width: 400px;
+		background-color: rgba(26, 72, 118, 0.9);
+
+		img{
+			width: 80%;
+			background-color: rgba(26, 72, 118, 0.9);
+		}
+	}
+
+	section#quote-holder{
+
+		margin: 0 auto;
+		width: 400px;
+
+		p#quote{
+			display: inline-block;
+			width: 100%;
+			padding: 10px 15px;
+			line-height: 30px;
+			letter-spacing: 0.7px;
+			font-size: 22px;
+			font-style: italic;
+			font-weight: bold;
+			color: #FDFC74;
+			text-shadow: 1px 1px  #FF5349;
+			background-color: rgba(26, 72, 118, 0.9);
+
+			&:before{
+				content: '"';
+			}
+
+		}
+	}
+
+	section#controller{
+		display: inline-block;
+		padding-bottom: 20px;
+		width: 400px;
+		background-color: rgba(26, 72, 118, 0.9);
+
+		i.fa{
+			font-size: 22px;
+			padding: 10px 15px;
+			color: #FDFC74;
+			text-shadow: 1px 1px  #FF5349;
+
+			&:hover{
+				cursor: pointer;
+				color: #FF5349;
+				text-shadow: 1px 1px  #FDFC74;
+			}
+		}
+	}
+}

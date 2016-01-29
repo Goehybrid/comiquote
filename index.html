@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Quote Generator</title>
+	<!-- reset -->
+	<link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/reset.css">
+    <!-- fonts -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link href='https://fonts.googleapis.com/css?family=Bangers' rel='stylesheet' type='text/css'>
+    <!-- stylesheets -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+	<div id="container">
+
+		<header>
+			<h1>ComiQuotes</h1>
+		</header>
+
+		<main>
+
+			<section id="controller">
+				<i class="fa fa-arrow-circle-left"></i>
+
+				<a class="twitter-share-button" href="https://twitter.com/intent/tweet" target="_blank">
+					<i class="fa fa-twitter"></i>
+				</a>
+				
+				<i class="fa fa-arrow-circle-right"></i>
+			</section>
+
+			<section id="image-holder">
+				<img id="image" src="http://placehold.it/320x350?text=Loading..." alt="image">
+			</section>
+
+			<section id="quote-holder">
+				<p id="quote">Loading the quote...</p><span id="counter" style="display:none">0</span>
+			</section>
+
+
+		</main>
+
+	</div>
+
+	<script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+	<script src="js/script.js"></script>
+</body>
+</html>
